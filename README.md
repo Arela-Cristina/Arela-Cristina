@@ -10,7 +10,7 @@
 - 💬 Ask me about: anything, I am happy to help.
 - ⭐ I’m currently working on a project about my favorite Game.
 - 😋 I’m looking for help with videogames.
-- 😄 Fun fact: I am considering changing religion to Buddhism.
+- 😄 Fact: 'Chi cerca trova'. 
 
 <br><br><br>
 
