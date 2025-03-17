@@ -42,4 +42,4 @@
 <br>
 
 ## How to reach me
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/gianluca-lomarco-2a496b5b/)  👽 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/cristina-arela-9b96b2295/?locale=es_ES)  👽 
