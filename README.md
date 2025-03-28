@@ -27,6 +27,7 @@
   <img  alt="sass" src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vite-A94DFE?logo=vite&logoColor=white&style=for-the-badge">
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-F29111?logo=mysql&logoColor=white&style=for-the-badge"> 
 </div>
 
 <br>
@@ -35,7 +36,6 @@
 <div>
   <img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-F29111?logo=mysql&logoColor=white&style=for-the-badge"> 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
  </div>
  
